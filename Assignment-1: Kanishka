@@ -1,1 +1,4 @@
-
+https://colab.research.google.com/drive/1149qIxUYngbI3V2359szopPlK_nsywR0?usp=sharing
+Here, I have created a text generator with the help of transformers (GPT-2).
+The app allows users to input a text prompt and generates coherent and meaningful responses in real-time.
+This project involved leveraging Hugging Face's transformers library, TensorFlow, and techniques like beam search for optimal text generation.
